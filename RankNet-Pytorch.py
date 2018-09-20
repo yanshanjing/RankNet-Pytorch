@@ -120,14 +120,4 @@ x = list(range(10000))
 plt.plot(x, losses)
 
 
-# In[95]:
-
-
-plt.plot(x, losses)
-
-
-# In[108]:
-
-
-plt.plot(x, losses)
 
